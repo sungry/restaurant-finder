@@ -1,0 +1,16 @@
+#title {
+  height: 50px;
+  width: 100%;
+  background-color: red;
+  text-align: center;
+  font-family: georgia;
+  font-size: 30px;
+  background: repeating-linear-gradient(
+  45deg,
+  rgba(0, 0, 0, 0.2),
+  rgba(0, 0, 0, 0.2) 10px,
+  rgba(0, 0, 0, 0.3) 10px,
+  rgba(0, 0, 0, 0.3) 20px
+),
+url(http://www.ianbarnard.co.uk/wp-content/uploads/2013/09/shabby_chic_triangles01.png);
+}
